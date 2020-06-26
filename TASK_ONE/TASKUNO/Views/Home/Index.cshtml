@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<h2>WeatherJS</h2>
+
+<p id="reply"></p>
+<p id="temp"></p>
+<p id="humid"></p>
+<button id="weatherBtn">Get Weather</button>
+
+<script>
+    $(document).ready(function () {
+        $("#weatherBtn").click(function () {
+            $.get("https://api.openweathermap.org/data/2.5/weather?q=Singapore&APPID=b4122bd2baff5f85dfa5f188ca8bd5a1", function (response) {
+                //response
+
+                //console.log(response);
+                //console.log(response.data.request[0]);
+                /*console.log(response.data.current_condition[4]);
+
+                $("#reply").text(response.data);*/
+                $("#temp").text("Temperature = " + response.main.temp);
+                $("#humid").text("Humidity = " + response.main.humidity);
+                $("#reply").text(response.name);
+
+
+                
+            });
+        });
+    });
+</script>
