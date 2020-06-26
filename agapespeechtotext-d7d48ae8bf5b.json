@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agapespeechtotext",
+  "private_key_id": "d7d48ae8bf5bf52bb761ac4013781373d90bd913",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDY+rGlO0iYqJ5x\nKQp/FLlugx8NaiOee/t+qe5s8JyyiK3aA0ga6y4zfrl3lkqfRW63Lzc4Xvlv7XvN\ngotZ+o64Bdq1Rc2vX9tqmlcm0bn41DWMy4l4OxMGsKEt4cdFNdnGKId5B4Kw857h\nBc1+/iPsLXAQVPUkJbA4VDx36q33w1+64LEjBMHRCvWKlFuex+blYBkcx179IBw9\nlBDGi4rLviInfU2vVt3JrLnZoSUYkEaDpERoRPZZB56yxuE9N4L8qgt+aUPbyI9p\nCaOgxBJi2BlzKjc5qIOIgqWqLQTIq9hPZWC2MC3mwDQOJc93UrtccSVp5eK4LSwh\nQ3bOGFt3AgMBAAECggEAUGd5u+Z/jN5zNDDGrHfkDSE2uRRbVafQ9suGyETTdE80\nyUSNDDiZOsjbdoaxaVrj36r19gQvv7vLtEiLVhEEoQm+VY0j3riRSOwfnol6NkyA\n+YcVDoIpl0GNwMBZRPrjE8zCAuX3FpZ4ih9J2qTXb/YYgFzTKI10wzLn43IJ/HTx\nikuwQatu7Zl0PD5Q3qAaEPIukI2+O9jP3+coFSP0cvKAr6sGwwC/zNTmuwkXa8G9\nBcTXFh5mPs9XoXGbOpLfjXtFQ9jS9Ufd6e8Lf1gahP7zHCAIdpcrQuubrwvtQaSE\nHgjpu2Lh/dnF0pMPCOqyNYWFuk/p9qjqSGd0ymkSeQKBgQDvsm5nPGdU9OX5gLcA\ng+mef8OCOUAhfk+/fjZ2XvN+a3SCHGh2kX1mc0jmIvijc9kU2nu44wVb8k/Fowld\nycYcHsqyBqM5/Zi1cR/ZtpNPwT4hX+w3whNnrYHRo8D0r8lJT0HfuTDM/Smy6EzK\nmFF3Ko0MLFvnjNMkahS6M+UTzwKBgQDnvLR7ZhwOdQ6vq5PnMvSUsbIpeSMkfuyS\n295wThK4r0uABxQpP6OvylYmKE43M9vtZ+4yASU5m+33p42bW01pn/BobhHE4n6w\nAtA3YbzpxRrRsuogGKgsnCGW4lPgxX15wmST2/h2+8DEk6GLYMKg+2v9HjbQGNDu\nVYaV6tOf2QKBgDYowvlglJiFnVD63F6pb6f4hlxuQydOOwaxpeypF6uA7BpaAOCJ\njyQO+HHHhRapnmsv0rS71wInhg7J/9vJM5I3AuWmykrYGiElJmUy86YZq8guvFj8\n6RWMBsEvlvGypnCCEAhU98nZigp6op9EO2QJoUUW4M047JxVu8k24JPRAoGAfebi\nT6C8YYZrgjm/0361rwuT9kBgPXXP5kIaaf2g4kIqzNYLuBVhQyK1B2oihI9iT2uF\n2BkTNmdnNIQNxXgnaNmCbdpPQR6lIc+FfHFXh9KUrZV86g87X3E8NpOkapwhfcOF\njWeXaF2C78odnHHnjDrNAuolcY3qBXLl+hFpBJECgYAu/GTbgRg/ErrqVYxGHyTx\nS8YH+MkSA221elPTdcKv5tbF+YklzX31/PFLk7yxKjmCOXx4YGCk61bx+OZ044NU\n+giSxwAyQV6USacNUe57Cn5JBB088xAKFNlorhogrlhUdWooLMUMTt137++OZHEg\nOKBYg27QhPeQ7dJgIcvdDQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "agapecsc@agapespeechtotext.iam.gserviceaccount.com",
+  "client_id": "104540925276932504447",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agapecsc%40agapespeechtotext.iam.gserviceaccount.com"
+}
