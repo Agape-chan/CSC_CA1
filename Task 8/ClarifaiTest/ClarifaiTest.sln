@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClarifaiTest", "ClarifaiTest\ClarifaiTest.csproj", "{2BD6FEE5-4923-4B5C-A8C2-CF8D9CB11240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD6FEE5-4923-4B5C-A8C2-CF8D9CB11240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD6FEE5-4923-4B5C-A8C2-CF8D9CB11240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD6FEE5-4923-4B5C-A8C2-CF8D9CB11240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD6FEE5-4923-4B5C-A8C2-CF8D9CB11240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E535E0-ED96-4FD5-8BE6-10F3B653A47D}
+	EndGlobalSection
+EndGlobal
